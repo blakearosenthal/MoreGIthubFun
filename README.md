@@ -1,4 +1,4 @@
-More GithubFun (this is a title)!! ~~
+More GithubFun (this is a title)!! :) (:
 --------------------------------
 This is paragraph text...
 
